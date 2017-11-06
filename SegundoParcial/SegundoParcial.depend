@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1506147761 source:c:\users\victorn\documents\segundoparcial\pila.cpp
+	"pila.h"
+	<iostream>
+	<cstdlib>
+
+1506372155 c:\users\victorn\documents\segundoparcial\pila.h
+
+1506466291 source:c:\users\victorn\documents\segundoparcial\main.cpp
+	<iostream>
+	<cola.h>
+	<pila.h>
+	<lista_ord.h>
+	<lista_doble.h>
+	<lista_mitad.h>
+
+1506319210 source:c:\users\victorn\documents\segundoparcial\src\cola.cpp
+	"cola.h"
+	<cstdlib>
+	<iostream>
+
+1506149078 c:\users\victorn\documents\segundoparcial\include\cola.h
+	<pila.h>
+
+1506304130 source:c:\users\victorn\documents\segundoparcial\src\lista_ord.cpp
+	"lista_ord.h"
+	<cstdlib>
+	<iostream>
+
+1506303993 c:\users\victorn\documents\segundoparcial\include\lista_ord.h
+	<pila.h>
+
+1506389781 source:c:\users\victorn\documents\segundoparcial\src\lista_doble.cpp
+	"lista_doble.h"
+	<cstdlib>
+	<iostream>
+	<windows.h>
+
+1506372155 c:\users\victorn\documents\segundoparcial\include\lista_doble.h
+	"pila.h"
+
+1506458839 c:\users\victorn\documents\segundoparcial\include\lista_mitad.h
+	<pila.h>
+
+1506464241 source:c:\users\victorn\documents\segundoparcial\src\lista_mitad.cpp
+	"lista_mitad.h"
+	<cstdlib>
+	<iostream>
+

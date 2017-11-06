@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1507346140 source:c:\users\victorn\documents\listaconrepeticion\main.cpp
+	<iostream>
+	<cstdlib>
+	<lista_ord_rep.h>
+	<lista_doble_rep.h>
+	<lista_mitad_rep.h>
+	<lista_ord_poca_rep.h>
+
+1507264315 source:c:\users\victorn\documents\listaconrepeticion\src\lista_ord_rep.cpp
+	"lista_ord_rep.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+
+1507261817 c:\users\victorn\documents\listaconrepeticion\include\lista_ord_rep.h
+
+1507270069 source:c:\users\victorn\documents\listaconrepeticion\src\lista_doble_rep.cpp
+	"lista_doble_rep.h"
+	<cstdlib>
+	<iostream>
+	<windows.h>
+
+1507265680 c:\users\victorn\documents\listaconrepeticion\include\lista_doble_rep.h
+	<lista_ord_rep.h>
+
+1507265642 c:\users\victorn\documents\listaconrepeticion\include\pila.h
+
+1507271635 source:c:\users\victorn\documents\listaconrepeticion\src\lista_mitad_rep.cpp
+	"lista_mitad_rep.h"
+	<iostream>
+	<cstdlib>
+
+1507271635 c:\users\victorn\documents\listaconrepeticion\include\lista_mitad_rep.h
+	<lista_ord_rep.h>
+
+1507345321 c:\users\victorn\documents\listaconrepeticion\include\lista_ord_poca_rep.h
+	<lista_ord_rep.h>
+
+1507346105 source:c:\users\victorn\documents\listaconrepeticion\src\lista_ord_poca_rep.cpp
+	"lista_ord_poca_rep.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+

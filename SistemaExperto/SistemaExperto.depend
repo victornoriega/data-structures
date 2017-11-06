@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\victorn\documents\sistemaexperto\main.cpp
+	<iostream>
+
+1509396296 source:c:\users\victorn\documents\sistemaexperto\src\grafica.cpp
+	"Grafica.h"
+
+1509396538 c:\users\victorn\documents\sistemaexperto\include\grafica.h
+	<lista_nodos.h>
+
+1509396206 c:\users\victorn\documents\sistemaexperto\include\lista_nodos.h
+	<utilerias2.h>
+
+1509396445 c:\users\victorn\documents\sistemaexperto\include\utilerias2.h
+	<lista_arcos.h>
+
+1509396530 c:\users\victorn\documents\sistemaexperto\include\lista_arcos.h
+	<utilerias.h>
+
+1509396431 c:\users\victorn\documents\sistemaexperto\include\utilerias.h
+
+1509396255 source:c:\users\victorn\documents\sistemaexperto\src\lista_arcos.cpp
+	"lista_arcos.h"
+	<cstdlib>
+	<iostream>
+
+1509396246 source:c:\users\victorn\documents\sistemaexperto\src\lista_nodos.cpp
+	"lista_nodos.h"
+	<lista_arcos.h>
+	<utilerias.h>
+	<cstdlib>
+

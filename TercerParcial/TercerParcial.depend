@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\victorn\documents\tercerparcial\main.cpp
+	<iostream>
+
+1509390656 source:c:\users\victorn\documents\tercerparcial\src\grafica.cpp
+	"Grafica.h"
+
+1509352400 c:\users\victorn\documents\tercerparcial\include\grafica.h
+	<lista_nodos.h>
+	<listaRutaCorta.h>
+
+1508660259 c:\users\victorn\documents\tercerparcial\include\lista_nodos.h
+	<utilerias2.h>
+
+1509390406 c:\users\victorn\documents\tercerparcial\include\lista_arcos.h
+	<utilerias.h>
+
+1509391700 source:c:\users\victorn\documents\tercerparcial\src\lista_nodos.cpp
+	"lista_nodos.h"
+	<lista_arcos.h>
+	<utilerias.h>
+	<cstdlib>
+
+1509390406 source:c:\users\victorn\documents\tercerparcial\src\lista_arcos.cpp
+	"lista_arcos.h"
+	<cstdlib>
+	<iostream>
+
+1509390858 c:\users\victorn\documents\tercerparcial\include\utilerias.h
+
+1508122838 c:\users\victorn\documents\tercerparcial\include\utilerias2.h
+	<lista_arcos.h>
+
+1509392039 c:\users\victorn\documents\tercerparcial\include\listarutacorta.h
+	<utilerias.h>
+	<utilerias3.h>
+
+1508122838 c:\users\victorn\documents\tercerparcial\include\utilerias3.h
+
